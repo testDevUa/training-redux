@@ -1,0 +1,15 @@
+header {
+    padding: 32px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+}
+
+.menu__item {
+    margin-right: 24px;
+    color: #1d1d1f;
+    text-decoration: none;
+}

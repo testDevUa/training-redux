@@ -1,0 +1,14 @@
+.feed {
+    padding: 24px 0;
+}
+
+.feed__text {
+    width: 570px;
+    margin-top: 24px;
+}
+
+.feed__add {
+    display: block;
+    margin: 0 auto;
+    margin-top: 24px;
+}
